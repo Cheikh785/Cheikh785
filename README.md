@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Cheikh Oumar BA
 #### I am a web programmer
-![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![github](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Cheikh from Senegal, and I do content on Programming and Development. I really enjoy learning languages and frameworks like Spring Boot and Angular. I also enjoy java, C and database administration based on mysql or oracle
 
