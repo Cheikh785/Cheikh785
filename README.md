@@ -4,17 +4,19 @@
 
 I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School
 
-I am a 21-year-old young man curious, dynamic and above all passionate about everything related to new technologies. I am comfortable in some programming languages like java and C langage, I also do a little bit of angular, typescript, spring boot, script bash and flutter for mobile development. I am also very organized by nature and love to write and read as well.
+I am a 21-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
 
->>> Skills: JAVA / C / SPRING BOOT / JavaEE / Javascript / ANGULAR / HTML / CSS / Materialize / Bootstrap / TailwindCss / UML / Canva / Mysql
+I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortable in some programming languages like java and C langage, I also do a little bit of angular, typescript, spring boot, bash and flutter for mobile development. I am also very organized by nature and love to write and read as well.
 
-### Frameworks 
+<!-- >>> Skills: JAVA / C / SPRING BOOT / JavaEE / Javascript / ANGULAR / HTML / CSS / Materialize / Bootstrap / TailwindCss / UML / Canva / Mysql -->
 
-<p align="left">
-  <a href="#">
-    <img src="..ColoredBadges/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
-  </a>  
- </p>
+|         Back-end   |     Front-end       |     Modélisation & design |    Administration                   |       Outils                  |
+|--------------------|:-------------------:|--------------:|:------------------------------------------------|:------------------------------|
+|           JAVA     |     Javascript      |     UML       |     Administration Système                      |         Intelij               |
+|          C         |     Angular         |     FIGMA     |     Administration Base de Données              |       Vs Code                 |
+|                    |     HTML/CSS        |     CANVA     |                                                 |   Postman                     |
+|                    |Bootstrap/Materialize/TailwindCss |  |                                                 |   Github                      |  
+|                    |                     |               |                                                 |         VIM                   |  
 - 🔭 I’m currently working on web scraping project. 
 - 🌱 I’m currently learning Flutter 
 - 😄 Pronouns: he/him
@@ -25,12 +27,14 @@ I am a 21-year-old young man curious, dynamic and above all passionate about eve
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh785)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikh785&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheikh785&show_icons=true&count_private=true&theme=merko&border_radius=15&hide_border=true&langs_count=10)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cheikh785)  
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Cheikh785) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/cheikh785)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
 
+Made with :heart: by Cheikh.
 <!---
 Cheikh785/Cheikh785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
