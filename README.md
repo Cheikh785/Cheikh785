@@ -12,12 +12,12 @@ I am a 21-year-old young man curious, dynamic and above all passionate about eve
 
 <p align="left">
   <a href="#">
-    <img src="ColoredBadges/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+    <img src="..ColoredBadges/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
   </a>  
  </p>
 - 🔭 I’m currently working on web scraping project. 
 - 🌱 I’m currently learning Flutter 
-- 😄 Pronouns: COF 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Multimedia / Mangas / Sport / Programmation / Poem
 
 
