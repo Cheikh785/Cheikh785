@@ -13,10 +13,10 @@ I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortab
 
 |         Back-end   |     Front-end       |     Modélisation & design |    Administration                   |       Outils                  |
 |--------------------|:-------------------:|--------------:|:------------------------------------------------|:------------------------------|
-|           JAVA     |     Javascript      |     UML       |     Administration Système                      |         Intelij               |
-|          C         |     Angular         |     FIGMA     |     Administration Base de Données              |       Vs Code                 |
-|                    |     HTML/CSS        |     CANVA     |                                                 |   Postman                     |
-|                    |Bootstrap/Materialize/TailwindCss |  |                                                 |   Github                      |  
+|           JAVA     |     Javascript      |     UML       |     System Administrator                        |         Intelij               |
+|          C         |     Angular         |     FIGMA     |     Databases Administrator                     |       Vs Code                 |
+|   Spring Boot      |     HTML/CSS        |     CANVA     |                                                 |   Postman                     |
+|     JavaEE         |Bootstrap/Materialize/TailwindCss |  |                                                 |   Github                      |  
 |                    |                     |               |                                                 |         VIM                   |  
 - 🔭 I’m currently working on web scraping project. 
 - 🌱 I’m currently learning Flutter 
