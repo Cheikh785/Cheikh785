@@ -8,6 +8,13 @@ I am a 21-year-old young man curious, dynamic and above all passionate about eve
 
 >>> Skills: JAVA / C / SPRING BOOT / JavaEE / Javascript / ANGULAR / HTML / CSS / Materialize / Bootstrap / TailwindCss / UML / Canva / Mysql
 
+### Frameworks 
+
+<p align="left">
+  <a href="#">
+    <img src="ColoredBadges/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ </p>
 - 🔭 I’m currently working on web scraping project. 
 - 🌱 I’m currently learning Flutter 
 - 😄 Pronouns: COF 
@@ -22,7 +29,7 @@ I am a 21-year-old young man curious, dynamic and above all passionate about eve
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cheikh785)  
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Cheikh785) &nbsp;&nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/cheikh785)  &nbsp;&nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;&nbsp;
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Cheikh785) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/cheikh785)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
 
 <!---
 Cheikh785/Cheikh785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
