@@ -1,10 +1,10 @@
 ## Hi there 👋 my name is Cheikh Oumar BA
-### I am a web programmer
+<!-- ### I am a web programmer -->
 ![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School
+<!-- I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School -->
 
-I am a 21-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
+I am Cheikh Oumar Ba from Senegal and I am a 21-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
 
 I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortable in some programming languages like java and C langage, I also do a little bit of angular, typescript, spring boot, bash and flutter for mobile development. I am also very organized by nature and love to write and read as well.
 
