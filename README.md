@@ -1,6 +1,7 @@
 ## Hi there 👋 my name is Cheikh Oumar BA
 <!-- ### I am a web programmer -->
-![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+![I am a web programmer](modele5.png)
 
 <!-- I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School -->
 
