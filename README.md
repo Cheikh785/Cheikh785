@@ -11,9 +11,9 @@ I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortab
 
 <!-- >>> Skills: JAVA / C / SPRING BOOT / JavaEE / Javascript / ANGULAR / HTML / CSS / Materialize / Bootstrap / TailwindCss / UML / Canva / Mysql -->
 
-|         Back-end   |     Front-end       |     Modélisation & design |    Administration                   |       Outils                  |
+|         Back-end   |     Front-end       |     Modelisation & design |    Administration                   |       Tools                   |
 |--------------------|:-------------------:|--------------:|:------------------------------------------------|:------------------------------|
-|           JAVA     |     Javascript      |     UML       |     System Administrator                        |         Intelij               |
+|           JAVA     |Javascript/Typescript|UML            |     System Administrator                        |         Intelij               |
 |          C         |     Angular         |     FIGMA     |     Databases Administrator                     |       Vs Code                 |
 |   Spring Boot      |     HTML/CSS        |     CANVA     |                                                 |   Postman                     |
 |     JavaEE         |Bootstrap/Materialize/TailwindCss |  |                                                 |   Github                      |  
