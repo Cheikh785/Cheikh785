@@ -34,6 +34,7 @@ CSS          1 hr            ████▓░░░░░░░░░░░░
 HTML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   12.85 %
 Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 Linux Config 09 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
 
 ![Metrics](https://metrics.lecoq.io/ln-dev7?template=classic&base.indepth=false&config.timezone=Africa%2FDakar)
 
