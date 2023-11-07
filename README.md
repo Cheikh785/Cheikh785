@@ -1,11 +1,11 @@
 ## Hi there 👋
 <!-- ### I am a web programmer -->
 <!-- ![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-![I am a web programmer](modele6.png)
+![I am a web programmer](img2.wallspic.com-fermer-lapex_predator-chat-chat_tigre-chat_noir-6000x4000.jpg)
 
 <!-- I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School -->
 
-I am **Cheikh Oumar Ba** from Senegal🇸🇳 and I am a 21-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
+I am **Cheikh Oumar Ba** from Senegal🇸🇳 and I am a 23-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
 
 I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortable in some programming languages like java and C langage, I also do a little bit of angular, typescript, spring boot, bash and flutter for mobile development. I am also very organized by nature and love to write and read as well.
 
@@ -56,7 +56,7 @@ Linux Config 09 mins         ░░░░░░░░░░░░░░░░░
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cheikh785)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cheikh-oumar-ba-90028019a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/CHEIKHOUMAR.BA.754/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/__ElCof__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/channel/UCvBOa2e6jOPq6YPBiNG8BHQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cheikh4dev.web.app/)  
 
->Made with :heart: by Cheikh.
+>Made with :heart: by ElCof.
 <!---
 Cheikh785/Cheikh785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
