@@ -1,11 +1,11 @@
 ## Hi there 👋
 <!-- ### I am a web programmer -->
 <!-- ![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-![Header](./github-header-image.png)
+![Header](./github_header.png)
 
 <!-- I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School -->
 
-I am **Cheikh Oumar Ba** from Senegal🇸🇳 and I am a 23-year-old young man curious, dynamic and above all passionate about everything related to new technologies.
+I am **Cheikh Oumar Ba** from Senegal🇸🇳 and I am a young man curious, dynamic and above all passionate about everything related to new technologies.
 
 I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortable in some programming languages like java and C langage, I also do a little bit of angular, typescript, spring boot, bash and flutter for mobile development. I am also very organized by nature and love to write and read as well.
 
@@ -16,19 +16,19 @@ I am an engeneering student at Dakar's Polytechnic Higher School. I am comfortab
 
 <!-- >>> Skills: JAVA / C / SPRING BOOT / JavaEE / Javascript / ANGULAR / HTML / CSS / Materialize / Bootstrap / TailwindCss / UML / Canva / Mysql -->
 
-|Langage de programmation|Back-end|   Front-end                    |     Modelisation & design |   Administrations       |       Tools            |
+|Langage de programmation|Back-end|   Front-end                    |     Modelisation & design |   Infrastruture & DB    |       Tools            |
 |---------|:--------------------|:--------------------------------:|--------------:|:------------------------------------|:-----------------------|
 |  C      |    Spring Boot      |       Javascript/Typescript      |     UML       |     MySql                           |         Intelij        |
 | Java    |    Nest Js          |       Angular                    |     FIGMA     |     MongoDb                         |         Vs Code        |
-| Python  |   Java EE           |       HTML/CSS                   |     CANVA     |     Linux                           |         Postman        |
-|         |                     |Bootstrap/Materialize/TailwindCss |Visual paradigm|                                     |         Github         | 
-|         |                     |                                  |               |                                     |         VIM            |  
+| Python  |   Java EE           |       HTML/CSS                   |     CANVA     |     Docker                          |         Postman        |
+|         |                     |Bootstrap/Materialize/TailwindCss |Visual paradigm|     Jenkins                         |         Github         | 
+|         |                     |                                  |               |     Linus                           |         VIM            |  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh785)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ```text
-Spring Boot  1 hrs 22 mins   ███████████░░░░░░░░░░░░░░   29.28 %
-Nesst Js     1 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   26.07 %
+Spring Boot  4 hrs 22 mins   ███████████░░░░░░░░░░░░░░   29.28 %
+Nest Js      1 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   26.07 %
 Angular      1 hr 07 mins    ██████▓░░░░░░░░░░░░░░░░░░   23.92 %
 CSS          1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   21.42 %
 HTML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   12.85 %
