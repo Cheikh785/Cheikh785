@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- ### I am a web programmer -->
 <!-- ![I am a web programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-![I am a web programmer](img2.wallspic.com-fermer-lapex_predator-chat-chat_tigre-chat_noir-6000x4000.jpg)
+![Header](./github-header-image.png)
 
 <!-- I am Cheikh Oumar Ba from Senegal, an engeneering student at Dakar's Polytechnic Higher School -->
 
